@@ -1,2 +1,4 @@
 def square(num):
-    print ("Square of " + int(num) + "is :" num^2)
+    Print ("Square of " + int(num) + "is :" num^2)
+
+    Print ("Hello")
