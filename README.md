@@ -1,1 +1,1 @@
-# square
+# square of a number
